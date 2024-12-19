@@ -166,23 +166,5 @@ Bienvenido al **Gestor de Tareas**, una herramienta diseñada para ayudarte a ge
 
 ---
 
-### **6. PREGUNTAS FRECUENTES**
-
-#### **6.1. ¿Qué hago si el sistema no guarda las tareas?**
-Verifica que tengas permisos de escritura en la carpeta donde se almacena el archivo de datos.
-
-#### **6.2. ¿Cómo puedo cambiar el usuario asignado a una tarea?**
-Edita la tarea desde la pantalla principal y selecciona un nuevo usuario en el menú desplegable.
-
----
-
-### **7. CONTACTO Y SOPORTE**
-
-Para consultas o soporte técnico, contacta al desarrollador del sistema a través de:  
-- **Correo electrónico**: soporte@gestordetareas.com  
-- **Teléfono**: +34 123 456 789  
-
----
-
 Este prototipo representa una herramienta poderosa y accesible para cualquier organización que busque optimizar la gestión de sus proyectos. Con un diseño modular y escalable, está listo para convertirse en una solución integral de productividad.
 
